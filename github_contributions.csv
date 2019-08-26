@@ -1,1 +1,256 @@
-Mageplaza,Mageplaza
+"Incoming Message","Ný skilaboð",module,Magento_AdminNotification
+"The message has been marked as Read.","Skilaboðin hafa verið merkt sem lesin.",module,Magento_AdminNotification
+"Please select messages.","Vinsamlega veldu skilaboð°.",module,Magento_AdminNotification
+"The message has been removed.","Skilaboðin hafa verið fjarlægð.",module,Magento_AdminNotification
+"critical","alvarlegt",module,Magento_AdminNotification
+"Manage Shopping Cart","Vinna með vörukörfu",module,Magento_AdvancedCheckout
+"Create Order","Stofna pöntun",module,Magento_AdvancedCheckout
+"Back","Til baka",module,Magento_AdvancedCheckout
+"Add Products","Bæta við vörum",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Uppfæra vörur og magn",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Ertu viss um að þú viljir tæma vörukörfuna?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Tæma vörukörfu",module,Magento_AdvancedCheckout
+"Cancel","Hætta við",module,Magento_AdvancedCheckout
+"Product","Vara",module,Magento_AdvancedCheckout
+"Price","Verð",module,Magento_AdvancedCheckout
+"Quantity","Magn",module,Magento_AdvancedCheckout
+"Products","Vörur",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","Setja í vörukörfu",module,Magento_AdvancedCheckout
+"Wish List (%1)","Óskalisti (%1)",module,Magento_AdvancedCheckout
+"Add to Order","Bæta vöru í pöntun,",module,Magento_AdvancedCheckout
+"Add Products to Order","Bæta vörum við pöntun",module,Magento_AdvancedCheckout
+"Remove All","Fjarlægja allt",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Aðeins %1%2%3 eftir á lager",module,Magento_AdvancedCheckout
+"We can't find this customer.","Viðskiptamaður finnst ekki.",module,Magento_AdvancedCheckout
+"Customers","Viðskiptavinir",module,Magento_AdvancedCheckout
+"Shopping Cart","Vörukarfa",module,Magento_AdvancedCheckout
+"Qty","Magn",module,Magento_AdvancedCheckout
+"Subtotal","Samtals",module,Magento_AdvancedCheckout
+"Discount","Afsláttur",module,Magento_AdvancedCheckout
+"Subtotal:","Samtals:",module,Magento_AdvancedCheckout
+"Place Order","Staðfesta pöntun",module,Magento_Authorizenet
+"Orders","Pantanir",module,Magento_Backend
+"Home","Heim",module,Magento_Backend
+"Reset","Endurstilla",module,Magento_Backend
+"Error","Villa",module,Magento_Backend
+"Order","Pöntun",module,Magento_Backend
+"Order #%1","Pöntun #%1",module,Magento_Backend
+"Username","Notandanafn",module,Magento_Backend
+"user name","nafn notanda",module,Magento_Backend
+"Password","Lykilorð",module,Magento_Backend
+"password","lykilorð",module,Magento_Backend
+"Sign in","Innskráning",module,Magento_Backend
+"Close","Loka",module,Magento_Backend
+"Previous","Fyrri",module,Magento_Backend
+"Next","Næsta",module,Magento_Backend
+"per page","á síðu",module,Magento_Backend
+"Position","Staðsetning",module,Magento_Banner
+"Place Order","Staðfesta pöntun",module,Magento_Braintree
+"Quantity:","Magn:",module,Magento_Bundle
+"Position","Staðsetning",module,Magento_Bundle
+"Default","Sjálfval",module,Magento_Bundle
+"Ordered","Pantað",module,Magento_Bundle
+"Shipped","Sent",module,Magento_Bundle
+"Refunded","Endurgreitt",module,Magento_Bundle
+"Canceled","Hætt við",module,Magento_Bundle
+"Regular Price","Upphaflegt verð",module,Magento_Bundle
+"From","Frá",module,Magento_Bundle
+"To","Til",module,Magento_Bundle
+"Go back to product details","Til baka í ítarupplýsingar vöru",module,Magento_Bundle
+"In stock","Á lager",module,Magento_Bundle
+"Out of stock","Uppselt",module,Magento_Bundle
+"Summary","Samantekt",module,Magento_Bundle
+"Quantity","Magn",module,Magento_Bundle
+"From:","Frá:",module,Magento_Bundle
+"To:","Til:",module,Magento_Bundle
+"Message:","Skilaboð:",module,Magento_Bundle
+"Product Name","Vöruheiti",module,Magento_Bundle
+"Subtotal","Samtals",module,Magento_Bundle
+"Discount Amount","Afsláttur",module,Magento_Bundle
+"Select...","Velja...",module,Magento_Bundle
+"Status","Staða",module,Magento_Bundle
+"Special Price","Tilboð",module,Magento_Bundle
+"Home","Heim",module,Magento_Catalog
+"Go to Home Page","Fara á upphafssíðu",module,Magento_Catalog
+"Discount","Afsláttur",module,Magento_Catalog
+"Category","Flokkur",module,Magento_Catalog
+"%1 and above","%1 og hærra",module,Magento_Catalog
+"Qty","Magn",module,Magento_Catalog
+"and above","og hærra",module,Magento_Catalog
+"Shop By","Veldu flokk",module,Magento_Catalog
+"Prev","Fyrri",module,Magento_Catalog
+"Next","Næsta",module,Magento_Catalog
+"We can't find products matching the selection.","Vara finnst ekki.",module,Magento_Catalog
+"Learn More","Nánar",module,Magento_Catalog
+"per page","á síðu",module,Magento_Catalog
+"Sort By","Afmarka",module,Magento_Catalog
+"Learn More Link","Nánar.",module,Magento_Catalog
+"Learn more","Nánar",module,Magento_Catalog
+"Category","Flokkur",module,Magento_CatalogEvent
+"Qty","Magn",module,Magento_CatalogInventory
+"Discount Amount","Afsláttur",module,Magento_CatalogRule
+"Discount Amount","Afsláttur",module,Magento_CatalogRuleStaging
+"Home","Heim",module,Magento_CatalogSearch
+"Go to Home Page","Fara á upphafssíðu",module,Magento_CatalogSearch
+". "" which is inconsistent with state of scope resolver"",". "" which is inconsistent with state of scope resolver""",module,Magento_CatalogSearch
+"Category","Flokkur",module,Magento_CatalogSearch
+"%1 and above","%1 og hærra",module,Magento_CatalogSearch
+Shopping Cart"","Vörukarfa",module,Magento_Checkout
+"Zip/Postal Code","Póstnúmer",module,Magento_Checkout
+"My Cart (1 item)","Karfan mín (1 vara)",module,Magento_Checkout
+"My Cart (%1 items)","Karfan mín (%1 vörur)",module,Magento_Checkout
+"My Cart","Karfan mín",module,Magento_Checkout
+" items"," vörur",module,Magento_Checkout
+"Qty","Magn",module,Magento_Checkout
+"Subtotal","Samtals",module,Magento_Checkout
+"Continue Shopping","Skoða meira",module,Magento_Checkout
+"You have no items in your shopping cart.","Vörukarfan þín er tóm.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Smelltu <a href=""%1"">hér</a> til að versla.",module,Magento_Checkout
+"Order #","Pöntun #",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Pöntunarnúmerið þitt er: <span>%1</span>.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","Þú færð tölvupóst til staðfestingar innan skamms.",module,Magento_Checkout
+"You can track your order status by creating an account.","Þú getur séð stöðu pöntunar ef þú stofnar aðgang.",module,Magento_Checkout
+"Place Order","Staðfesta pöntun",module,Magento_Checkout
+"Order Total","Heildarupphæð pöntunar",module,Magento_Checkout
+"Home","Heim",module,Magento_Cms
+"Go to Home Page","Fara á upphafssíðu",module,Magento_Cms
+"Order # %1","Pöntun # %1",module,Magento_CompanyCredit
+"Place Order","Staðfesta pöntun",module,Magento_CompanyCredit
+"Order Total","Heildarupphæð pöntunar",module,Magento_CompanyCredit
+"Order","Pöntun",module,Magento_Customer
+"Order Total","Heildarupphæð pöntunar",module,Magento_Customer
+"Qty","Magn",module,Magento_Customer
+"Balance","Alls samtals",module,Magento_CustomerBalance
+"Order #%1","Pöntun #%1",module,Magento_CustomerBalance
+"Order Status","Staða pöntunar",module,Magento_CustomerSegment
+"Order Status %1 %2:","Staða pöntunar %1 %2:",module,Magento_CustomerSegment
+"ordered","pantað",module,Magento_CustomerSegmen
+"Subtotal","Samtals",module,Magento_CustomerSegment
+"Place Order","Staðfesta pöntun",module,Magento_Cybersource
+"Order #","Pöntun #",module,Magento_Downloadable
+"Qty","Magn",module,Magento_Downloadable
+"Subtotal","Samtals",module,Magento_Downloadable
+"Discount Amount","Afsláttur",module,Magento_Downloadable
+"Ordered","Pantað",module,Magento_Downloadable
+"Ordered","Pantað",module,Magento_GiftCard
+"Order #%1.","Pöntun #%1.",module,Magento_GiftCardAccount
+"Qty","Magn",module,Magento_GiftRegistry
+"Qty","Magn",module,Magento_GroupedProduct
+"Shop By","Veldu flokk",module,Magento_LayeredNavigation
+"Qty","Magn",module,Magento_MultipleWishlist
+"Add To Order","Bæta vöru í pöntun",module,Magento_MultipleWishlist
+"Place Order","Staðfesta pöntun",module,Magento_Multishipping
+"Qty","Magn",module,Magento_Multishipping
+"Subtotal","Samtals",module,Magento_Multishipping
+"Subtotal (Incl. Tax)","Samtals (m. VSK)",module,Magento_NegotiableQuote
+"Subtotal (Excl. Tax)","Samtals (án VSK)",module,Magento_NegotiableQuote
+"Qty:","Magn:",module,Magento_NegotiableQuote
+"Qty: ","Magn: ",module,Magento_NegotiableQuote
+"Discount","Afsláttur",module,Magento_NegotiableQuote
+"Discount amount: ","Afsláttur: ",module,Magento_NegotiableQuote
+"discount","afsláttur",module,Magento_NegotiableQuote
+"Ordered","Pantað",module,Magento_NegotiableQuote
+"Qty","Magn",module,Magento_NegotiableQuote
+"Subtotal","Samtals",module,Magento_NegotiableQuote
+"Place Order","Staðfesta pöntun",module,Magento_OfflinePayments
+"Discount","Afsláttur",module,Magento_Payment
+"Place Order","Staðfesta pöntun",module,Magento_Payment
+"Order","Pöntun",module,Magento_Paypal
+"Order Total","Heildarupphæð pöntunar",module,Magento_Paypal
+"Learn More","Nánar",module,Magento_Paypal
+"Order #","Pöntun #",module,Magento_Paypal
+"Order Status","Staða pöntunar",module,Magento_Paypal
+"Place Order","Staðfesta pöntun",module,Magento_Paypal
+"Qty","Magn",module,Magento_Paypal
+"Subtotal","Samtals",module,Magento_Paypal
+"Orders","Pantanir",module,Magento_Paypal
+"Home Page","Upphafssíða",module,Magento_Paypal
+"Qty","Magn",module,Magento_QuickOrder
+"Subtotal","Samtals",module,Magento_Quote
+"Discount","Afsláttur",module,Magento_Quote
+"subtotal","Samtals",module,Magento_Reminder
+"Subtotal","Samtals",module,Magento_Reports
+"Discount","Afsláttur",module,Magento_Reports
+"Orders","Pantanir",module,Magento_Reports
+"Learn More","Nánar",module,Magento_Reports
+"Order Total","Heildarupphæð pöntunar",module,Magento_Reports
+"Ordered","Pantað",module,Magento_Reports
+"Ordered Quantity","Pantað magn",module,Magento_Reports
+"Order Updated","Pöntun uppfærð",module,Magento_Reports
+"Qty","Magn",module,Magento_RequisitionList
+"Subtotal","Samtals",module,Magento_RequisitionList
+"Learn more","Nánar",module,Magento_Reward
+"Order","Pöntun",module,Magento_Rma
+"Ordered","Pantað",module,Magento_Rma
+"Order # ","Pöntun # ",module,Magento_Rma
+"Ordered: ","Pantað: ",module,Magento_Rma
+"Qty","Magn",module,Magento_Rma
+"Category","Flokkur",module,Magento_Rule
+"Orders","Pantanir",module,Magento_Sales
+"Order Totals","Samtölur pöntunar",module,Magento_Sales
+"Order Grand Total","Heildarupphæð pöntunar",module,Magento_Sales
+"Order Statuses","Staða pantana",module,Magento_Sales
+"Order Status","Staða pöntunar",module,Magento_Sales
+"Order Status Information","Upplýsingar um stöðu pöntunar",module,Magento_Sales
+"Order # %1 %2 | %3","Pöntun # %1 %2 | %3",module,Magento_Sales
+"Subtotal","Samtals",module,Magento_Sales
+"Discount (%1)","Afsláttur (%1)",module,Magento_Sales
+"Discount","Afsláttur",module,Magento_Sales
+"Order # %1","Pöntun # %1",module,Magento_Sales
+"Go to Home Page","Fara á upphafssíðu",module,Magento_Sales
+"Ordered","Pantað",module,Magento_Sales
+"Order","Pöntun",module,Magento_Sales
+"Order # ","Pöntun # ",module,Magento_Sales
+"Order Date: ","Dags. pöntunar: ",module,Magento_Sales
+"Qty","Magn",module,Magento_Sales
+"Order #%1 created at %2","Pöntun #%1 stofnuð %2",module,Magento_Sales
+"Order # %1 Notification(s)","Pöntun # %1 Tilkynningar",module,Magento_Sales
+"Order Total","Heildarupphæð pöntunar",module,Magento_Sales
+"Subtotal:","Samtals:",module,Magento_Sales
+"Add To Order","Bæta vöru í pöntun",module,Magento_Sales
+"Subtotal (Excl. Tax)","Samtals (án VSK)",module,Magento_Sales
+"Subtotal (Incl. Tax)","Samtals (m. VSK)",module,Magento_Sales
+"Discount Amount","Afsláttur",module,Magento_Sales
+"Order Date","Dags. pöntunar",module,Magento_Sales
+"Order Date (%1)","Dags. pöntunar (%1)",module,Magento_Sales
+"Order #","Pöntun #",module,Magento_Sales
+"Subtotal after discount","Samtals m. afslætti, ",module,Magento_Sales
+"Orders","Pantanir",module,Magento_SalesArchive
+"Order","Pöntun",module,Magento_SalesArchive
+"Order Date","Dags. pöntunar",module,Magento_SalesArchive
+"Order Status","Staða pöntunar",module,Magento_SalesArchive
+"Subtotal","Samtals",module,Magento_SalesArchive
+"Order #","Pöntun #",module,Magento_SalesArchive
+"Discount (%1)","Afsláttur (%1)",module,Magento_SalesRule
+"Discount","Afsláttur",module,Magento_SalesRule
+"Subtotal","Samtals",module,Magento_SalesRule
+"Discount Amount","Afsláttur",module,Magento_SalesRule
+"Discount Amount","Afsláttur",module,Magento_SalesRuleStaging
+"Qty","Magn",module,Magento_ScalableInventory
+"Discount","Afsláttur",module,Magento_SharedCatalog
+"Order # %1","Pöntun # %1",module,Magento_Shipping
+"Qty Ordered","Pantað magn",module,Magento_Shipping
+"Qty","Magn",module,Magento_Shipping
+"Order Total","Heildarupphæð pöntunar",module,Magento_Shipping
+"Learn more","Nánar",module,Magento_Signifyd
+"Category","Flokkur",module,Magento_TargetRule
+"Subtotal (Excl.Tax)","Samtals (án VSK)",module,Magento_Tax
+"Subtotal (Incl.Tax)","Samtals (m. VSK)",module,Magento_Tax
+"Subtotal (Excl. Tax)","Samtals (án VSK)",module,Magento_Tax
+"Subtotal (Incl. Tax)","Samtals (m. VSK)",module,Magento_Tax
+"Subtotal","Samtals",module,Magento_Tax
+"Subtotal Only","Samtals",module,Magento_Tax
+"Order Total Excl. Tax","Heildarupphæð pöntunar án VSK",module,Magento_Tax
+"Order Total Incl. Tax","Heildarupphæð pöntunar m. VSK",module,Magento_Tax
+"Order Total","Heildarupphæð pöntunar",module,Magento_Tax
+"per page","á síðu",module,Magento_Theme
+"Go to Home Page","Fara á upphafssíðu",module,Magento_Theme
+"per page","á síðu",module,Magento_Ui
+"Category:","Flokkur:",module,Magento_UrlRewrite
+"Go to Home Page","Fara á upphafssíðu",module,Magento_VersionsCms
+"Ordered","Pantað",module,Magento_VersionsCms
+"per page","á síðu",module,Magento_VisualMerchandiser
+"Qty","Magn",module,Magento_Wishlist
+"You have no items in your wish list.","Óskalistinn þinn er auður.",module,Magento_Wishlist
+"Shop By","Veldu flokk",theme,frontend/Magento/luma
+"Order Status","Staða pöntunar",theme,frontend/Magento/luma
