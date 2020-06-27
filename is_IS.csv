@@ -68,7 +68,7 @@
 "Critical System Messages","Critical System Messages",module,Magento_AdminNotification
 "Major System Messages","Major System Messages",module,Magento_AdminNotification
 "System messages","System messages",module,Magento_AdminNotification
-"Close","Close",module,Magento_AdminNotification
+"Close","Loka",module,Magento_AdminNotification
 "See All (","See All (",module,Magento_AdminNotification
 " unread)"," unread)",module,Magento_AdminNotification
 "Show Toolbar","Show Toolbar",module,Magento_AdminNotification
@@ -121,7 +121,7 @@
 "We can't find this customer.","We can't find this customer.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Shopping cart management is disabled for this customer.",module,Magento_AdvancedCheckout
 "We can't find this store.","We can't find this store.",module,Magento_AdvancedCheckout
-"Customers","Customers",module,Magento_AdvancedCheckout
+"Customers","Viðskiptavinir",module,Magento_AdvancedCheckout
 "Shopping Cart","Karfa",module,Magento_AdvancedCheckout
 "Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_AdvancedCheckout
 "You do not have access to this.","You do not have access to this.",module,Magento_AdvancedCheckout
@@ -133,13 +133,13 @@
 "The wish list item is not loaded.","The wish list item is not loaded.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","An error has occurred. See error log for details.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","You cannot configure a product.",module,Magento_AdvancedCheckout
-"You removed the items.","You removed the items.",module,Magento_AdvancedCheckout
-"You removed the item.","You removed the item.",module,Magento_AdvancedCheckout
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_AdvancedCheckout
-"You cannot add a product.","You cannot add a product.",module,Magento_AdvancedCheckout
-"Order by SKU","Order by SKU",module,Magento_AdvancedCheckout
+"You removed the items.","Þú fjarlægðir atriðin.",module,Magento_AdvancedCheckout
+"You removed the item.","Þú fjarlægðir atriðið.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Þú bættir við %1 í körfuna þína.",module,Magento_AdvancedCheckout
+"You cannot add a product.","Þú getur ekki bætt við vöru.",module,Magento_AdvancedCheckout
+"Order by SKU","Raða samkvæmt SKU",module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
-"Availability: Out of stock.","Availability: Out of stock.",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","Fáanleiki: Ekki til á lager.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","We don't have as many of these as you want.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","You can't add this many to your cart.",module,Magento_AdvancedCheckout
 "You need to choose options for your item.","You need to choose options for your item.",module,Magento_AdvancedCheckout
@@ -148,7 +148,7 @@
 "This product is assigned to another website.","This product is assigned to another website.",module,Magento_AdvancedCheckout
 "You can add only enabled products.","You can add only enabled products.",module,Magento_AdvancedCheckout
 "You cannot upload this file.","You cannot upload this file.",module,Magento_AdvancedCheckout
-"The file is empty.","The file is empty.",module,Magento_AdvancedCheckout
+"The file is empty.","Skráin er tóm.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","You have not entered a product SKU.",module,Magento_AdvancedCheckout
 "We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
@@ -159,8 +159,8 @@
 "%1 product requires your attention.","%1 product requires your attention.",module,Magento_AdvancedCheckout
 "%1 products require your attention.","%1 products require your attention.",module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Yes, for Specified Customer Groups",module,Magento_AdvancedCheckout
-"Yes, for Everyone","Yes, for Everyone",module,Magento_AdvancedCheckout
-"No","No",module,Magento_AdvancedCheckout
+"Yes, for Everyone","Já, fyrir alla",module,Magento_AdvancedCheckout
+"No","Nei",module,Magento_AdvancedCheckout
 "The file is corrupt.","The file is corrupt.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Please upload the file in .csv format.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 item(s) need your attention.",module,Magento_AdvancedCheckout
@@ -168,21 +168,21 @@
 "Remove Coupon Code","Remove Coupon Code",module,Magento_AdvancedCheckout
 "Remove","Fjarlægja",module,Magento_AdvancedCheckout
 "The coupon code ""%1"" is not valid.","The coupon code ""%1"" is not valid.",module,Magento_AdvancedCheckout
-"Shopping Cart Items","Shopping Cart Items",module,Magento_AdvancedCheckout
-"Qty","Qty",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Körfuatriði",module,Magento_AdvancedCheckout
+"Qty","Magn",module,Magento_AdvancedCheckout
 "Subtotal","Subtotal",module,Magento_AdvancedCheckout
-"Discount","Discount",module,Magento_AdvancedCheckout
+"Discount","Afsláttur",module,Magento_AdvancedCheckout
 "Row Subtotal","Row Subtotal",module,Magento_AdvancedCheckout
-"Action","Action",module,Magento_AdvancedCheckout
+"Action","Aðgerð",module,Magento_AdvancedCheckout
 "No ordered items","No ordered items",module,Magento_AdvancedCheckout
 "Total %1 product(s)","Total %1 product(s)",module,Magento_AdvancedCheckout
 "Subtotal:","Subtotal:",module,Magento_AdvancedCheckout
-"Please select","Please select",module,Magento_AdvancedCheckout
+"Please select","Vinsamlega veldu",module,Magento_AdvancedCheckout
 "Move to Wish List","Move to Wish List",module,Magento_AdvancedCheckout
-"No item specified.","No item specified.",module,Magento_AdvancedCheckout
+"No item specified.","Ekkert atriði tilgreint.",module,Magento_AdvancedCheckout
 "Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_AdvancedCheckout
-"SKU number","SKU number",module,Magento_AdvancedCheckout
-"Upload File","Upload File",module,Magento_AdvancedCheckout
+"SKU number","SKU-númer",module,Magento_AdvancedCheckout
+"Upload File","Upphlaða skrá",module,Magento_AdvancedCheckout
 "Your csv file must include ""sku"" and ""qty"" columns.","Your csv file must include ""sku"" and ""qty"" columns.",module,Magento_AdvancedCheckout
 "Reset","Reset",module,Magento_AdvancedCheckout
 "SKU: ","SKU: ",module,Magento_AdvancedCheckout
@@ -201,14 +201,14 @@
 "File","File",module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","File extensions allowed: .csv",module,Magento_AdvancedCheckout
 "Add Row","Add Row",module,Magento_AdvancedCheckout
-"Remove Row","Remove Row",module,Magento_AdvancedCheckout
+"Remove Row","Fjarlægja röð",module,Magento_AdvancedCheckout
 "Add Products By SKU","Add Products By SKU",module,Magento_AdvancedCheckout
 "Shopping Cart Management","Shopping Cart Management",module,Magento_AdvancedCheckout
 "View Shopping Cart","Sýna körfu",module,Magento_AdvancedCheckout
 "View and modify Shopping Cart","View and modify Shopping Cart",module,Magento_AdvancedCheckout
 "Order by SKU Settings","Order by SKU Settings",module,Magento_AdvancedCheckout
 "Enable Order by SKU on My Account in Storefront","Enable Order by SKU on My Account in Storefront",module,Magento_AdvancedCheckout
-"Customer Groups","Customer Groups",module,Magento_AdvancedCheckout
+"Customer Groups","Viðskiptavinahópar",module,Magento_AdvancedCheckout
 "Apply Coupon","Apply Coupon",module,Magento_AdvancedCheckout
 "Order by SKU Description","Order by SKU Description",module,Magento_AdvancedCheckout
 "Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet",module,Magento_AdvancedCheckout
@@ -255,14 +255,14 @@
 "Search Query","Leitarorð",module,Magento_AdvancedSearch
 "Store","Store",module,Magento_AdvancedSearch
 "Results","Results",module,Magento_AdvancedSearch
-"Uses","Uses",module,Magento_AdvancedSearch
+"Uses","Notar",module,Magento_AdvancedSearch
 "Redirect URL","Redirect URL",module,Magento_AdvancedSearch
 "Suggested Term","Suggested Term",module,Magento_AdvancedSearch
 "Yes","Yes",module,Magento_AdvancedSearch
 "No","No",module,Magento_AdvancedSearch
-"Action","Action",module,Magento_AdvancedSearch
+"Action","Aðgerð",module,Magento_AdvancedSearch
 "Edit","Edit",module,Magento_AdvancedSearch
-"Synonym","Synonym",module,Magento_AdvancedSearch
+"Synonym","Samheiti",module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","RPC call failed, connection timed out after %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Message has been rejected: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Error while checking if topic is synchronous",module,Magento_Amqp
@@ -272,8 +272,8 @@
 "Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
 "There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
 "Please select a vertical.","Please select a vertical.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
+"--Please Select--","--Vinsamlega veldu--",module,Magento_Analytics
+"Command was not found.","Skipun fannst ekki.",module,Magento_Analytics
 "Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
 "Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
 "Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
@@ -294,7 +294,7 @@
 "Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
 "Analytics","Analytics",module,Magento_Analytics
 "API","API",module,Magento_Analytics
-"Configuration","Configuration",module,Magento_Analytics
+"Configuration","Stilling",module,Magento_Analytics
 "Business Intelligence","Business Intelligence",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
@@ -342,13 +342,13 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
 "Retry Synchronization","Retry Synchronization",module,Magento_Analytics
 "Back","Back",module,Magento_AsynchronousOperations
-"Done","Done",module,Magento_AsynchronousOperations
-"Retry","Retry",module,Magento_AsynchronousOperations
+"Done","Lokið",module,Magento_AsynchronousOperations
+"Retry","Endurreyna",module,Magento_AsynchronousOperations
 "'Action Details - #' .","'Action Details - #' .",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Bulk Actions Log",module,Magento_AsynchronousOperations
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Topic %1","Viðfangsefni %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
 "Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
 "Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
@@ -357,7 +357,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "%1 item(s) have been scheduled for update.","%1 item(s) have been scheduled for update.",module,Magento_AsynchronousOperations
 "%1 item(s) have been successfully updated.","%1 item(s) have been successfully updated.",module,Magento_AsynchronousOperations
 "%1 item(s) failed to update","%1 item(s) failed to update",module,Magento_AsynchronousOperations
-"Details","Details",module,Magento_AsynchronousOperations
+"Details","Ítarupplýsingar",module,Magento_AsynchronousOperations
 "View Details","View Details",module,Magento_AsynchronousOperations
 "Dismiss","Dismiss",module,Magento_AsynchronousOperations
 "Pending, in queue...","Pending, in queue...",module,Magento_AsynchronousOperations
@@ -4591,26 +4591,26 @@ new products will be created. Use this step to customize images and price for yo
 "Scope","Scope",module,Magento_ConfigurableProductStaging
 "Searchable","Searchable",module,Magento_ConfigurableProductStaging
 "Comparable","Comparable",module,Magento_ConfigurableProductStaging
-"Page not found.","Page not found.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
+"Page not found.","Síða fannst ekki.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Takk fyrir að hafa samband við okkur með athugasemdum og spurningum. Við munum svara þér mjög fljótlega.",module,Magento_Contact
 "An error occurred while processing your form. Please try again later.","An error occurred while processing your form. Please try again later.",module,Magento_Contact
-"Name is missing","Name is missing",module,Magento_Contact
-"Comment is missing","Comment is missing",module,Magento_Contact
-"Invalid email address","Invalid email address",module,Magento_Contact
+"Name is missing","Nafn vantar",module,Magento_Contact
+"Comment is missing","Athugasemd vantar",module,Magento_Contact
+"Invalid email address","Ógilt rafpóstfang",module,Magento_Contact
 "* Required Fields","* Required Fields",module,Magento_Contact
-"Write Us","Write Us",module,Magento_Contact
+"Write Us","Skrifaðu okkur",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
-"Name","Name",module,Magento_Contact
-"Email","Email",module,Magento_Contact
-"Phone Number","Phone Number",module,Magento_Contact
+"Name","Nafn",module,Magento_Contact
+"Email","Rafpóstur",module,Magento_Contact
+"Phone Number","Símanúmer",module,Magento_Contact
 "What’s on your mind?","What’s on your mind?",module,Magento_Contact
-"Submit","Submit",module,Magento_Contact
+"Submit","Senda",module,Magento_Contact
 "Contact Form","Contact Form",module,Magento_Contact
-"Phone","Phone",module,Magento_Contact
-"Message","Message",module,Magento_Contact
+"Phone","Sími",module,Magento_Contact
+"Message","Skilaboð",module,Magento_Contact
 "Contacts Section","Contacts Section",module,Magento_Contact
 "Contacts","Contacts",module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
+"Contact Us","Hafa samband við okkur",module,Magento_Contact
 "Enable Contact Us","Enable Contact Us",module,Magento_Contact
 "Email Options","Email Options",module,Magento_Contact
 "Send Emails To","Send Emails To",module,Magento_Contact
@@ -4618,7 +4618,7 @@ new products will be created. Use this step to customize images and price for yo
 "Email Template","Email Template",module,Magento_Contact
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
-"Name: %name","Name: %name",module,Magento_Contact
+"Name: %name","Nafn: %name",module,Magento_Contact
 "Email: %email","Email: %email",module,Magento_Contact
 "Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
 "Comment: %comment","Comment: %comment",module,Magento_Contact
@@ -11770,7 +11770,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Please specify valid %1.","Please specify valid %1.",module,Magento_Rule
 "is undefined","is undefined",module,Magento_Rule
 "Credit Memos","Credit Memos",module,Magento_Sales
-"Orders","Orders",module,Magento_Sales
+"Orders","Pantanir",module,Magento_Sales
 "Invoices","Invoices",module,Magento_Sales
 "We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
 "Create New Order","Create New Order",module,Magento_Sales
@@ -11780,20 +11780,20 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
 "Order Address Information","Order Address Information",module,Magento_Sales
 "Please correct the parent block for this block.","Please correct the parent block for this block.",module,Magento_Sales
-"Submit Comment","Submit Comment",module,Magento_Sales
-"Submit Order","Submit Order",module,Magento_Sales
+"Submit Comment","Senda athugasemd",module,Magento_Sales
+"Submit Order","Senda pöntun",module,Magento_Sales
 "Are you sure you want to cancel this order?","Are you sure you want to cancel this order?",module,Magento_Sales
-"Cancel","Cancel",module,Magento_Sales
+"Cancel","Hætta við",module,Magento_Sales
 "Billing Address","Billing Address",module,Magento_Sales
-"Payment Method","Payment Method",module,Magento_Sales
+"Payment Method","Greiðsluaðferð",module,Magento_Sales
 "Order Comment","Order Comment",module,Magento_Sales
 "Coupons","Coupons",module,Magento_Sales
-"Please select a customer","Please select a customer",module,Magento_Sales
-"Create New Customer","Create New Customer",module,Magento_Sales
+"Please select a customer","Vinsamlega veldu viðskiptavin",module,Magento_Sales
+"Create New Customer","Skapa nýjan viðskiptavin",module,Magento_Sales
 "Account Information","Account Information",module,Magento_Sales
-"From","From",module,Magento_Sales
-"To","To",module,Magento_Sales
-"Message","Message",module,Magento_Sales
+"From","Frá",module,Magento_Sales
+"To","Til",module,Magento_Sales
+"Message","Skilaboð",module,Magento_Sales
 "Edit Order #%1","Edit Order #%1",module,Magento_Sales
 "Create New Order for %1 in %2","Create New Order for %1 in %2",module,Magento_Sales
 "Create New Order in %1","Create New Order in %1",module,Magento_Sales
@@ -11807,17 +11807,17 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "%1 for %2","%1 for %2",module,Magento_Sales
 "* - Enter custom price including tax","* - Enter custom price including tax",module,Magento_Sales
 "* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
-"Configure","Configure",module,Magento_Sales
+"Configure","Stilla",module,Magento_Sales
 "This product does not have any configurable options","This product does not have any configurable options",module,Magento_Sales
 "Newsletter Subscription","Newsletter Subscription",module,Magento_Sales
 "Please select products","Please select products",module,Magento_Sales
 "Add Selected Product(s) to Order","Add Selected Product(s) to Order",module,Magento_Sales
 "ID","ID",module,Magento_Sales
-"Product","Product",module,Magento_Sales
+"Product","Vara",module,Magento_Sales
 "SKU","SKU",module,Magento_Sales
-"Price","Price",module,Magento_Sales
-"Select","Select",module,Magento_Sales
-"Quantity","Quantity",module,Magento_Sales
+"Price","Verð",module,Magento_Sales
+"Select","Velja",module,Magento_Sales
+"Quantity","Magn",module,Magento_Sales
 "Shipping Address","Shipping Address",module,Magento_Sales
 "Shipping Method","Shipping Method",module,Magento_Sales
 "Update Changes","Update Changes",module,Magento_Sales
@@ -14791,7 +14791,7 @@ than a customer might expect. ",module,Magento_Tax
 "Please put your store into maintenance mode and redeploy static files after changing strategy","Please put your store into maintenance mode and redeploy static files after changing strategy",module,Magento_Translation
 "Condition type ""%1"" is not allowed","Condition type ""%1"" is not allowed",module,Magento_Ui
 "The configuration parameter ""formElement"" is a required for ""%1"" field.","The configuration parameter ""formElement"" is a required for ""%1"" field.",module,Magento_Ui
-"Remove %1","Remove %1",module,Magento_Ui
+"Remove %1","Fjarlægja %1",module,Magento_Ui
 "Add New %1","Add New %1",module,Magento_Ui
 "New %1","New %1",module,Magento_Ui
 "Please select item(s).","Please select item(s).",module,Magento_Ui
@@ -14804,27 +14804,27 @@ than a customer might expect. ",module,Magento_Tax
 "Invalid UI Component element name: '%1'","Invalid UI Component element name: '%1'",module,Magento_Ui
 "Bookmark with id ""%1"" does not exist.","Bookmark with id ""%1"" does not exist.",module,Magento_Ui
 "Invalid UI Component element name: ''","Invalid UI Component element name: ''",module,Magento_Ui
-"Cancel","Cancel",module,Magento_Ui
+"Cancel","Hætta við",module,Magento_Ui
 "Back","Back",module,Magento_Ui
 "Next","Next",module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Ui
 "This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
 "Assign","Assign",module,Magento_Ui
-"Options","Options",module,Magento_Ui
-"records found","records found",module,Magento_Ui
-"selected","selected",module,Magento_Ui
-"of","of",module,Magento_Ui
-"Filters","Filters",module,Magento_Ui
-"Add","Add",module,Magento_Ui
-"Something went wrong.","Something went wrong.",module,Magento_Ui
-"Yes","Yes",module,Magento_Ui
-"No","No",module,Magento_Ui
-"Done","Done",module,Magento_Ui
-"options","options",module,Magento_Ui
+"Options","Valmöguleikar",module,Magento_Ui
+"records found","færslur fundnar",module,Magento_Ui
+"selected","valið",module,Magento_Ui
+"of","af",module,Magento_Ui
+"Filters","Síur",module,Magento_Ui
+"Add","Bæta við",module,Magento_Ui
+"Something went wrong.","Eitthvað fór úrskeiðis.",module,Magento_Ui
+"Yes","Já",module,Magento_Ui
+"No","Nei",module,Magento_Ui
+"Done","Lokið",module,Magento_Ui
+"options","valmöguleikar",module,Magento_Ui
 "Select...","Select...",module,Magento_Ui
-"Selected","Selected",module,Magento_Ui
-"Select All","Select All",module,Magento_Ui
-"Deselect All","Deselect All",module,Magento_Ui
+"Selected","Valið",module,Magento_Ui
+"Select All","Velja allt",module,Magento_Ui
+"Deselect All","Afvelja allt",module,Magento_Ui
 "Select All on This Page","Select All on This Page",module,Magento_Ui
 "Deselect All on This Page","Deselect All on This Page",module,Magento_Ui
 "On","On",module,Magento_Ui
@@ -14835,8 +14835,8 @@ than a customer might expect. ",module,Magento_Tax
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
 "You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
 "There are {placeholder} messages requires your attention.","There are {placeholder} messages requires your attention.",module,Magento_Ui
-"from","from",module,Magento_Ui
-"to","to",module,Magento_Ui
+"from","frá",module,Magento_Ui
+"to","til",module,Magento_Ui
 "You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
 "Search by keyword","Search by keyword",module,Magento_Ui
 "Keyword","Keyword",module,Magento_Ui
@@ -15231,56 +15231,56 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "An error occurred while saving the URL rewrite. Please try to save again.","An error occurred while saving the URL rewrite. Please try to save again.",module,Magento_UrlRewrite
 """url"" argument should be specified and not empty","""url"" argument should be specified and not empty",module,Magento_UrlRewriteGraphQl
 """model"" value should be specified","""model"" value should be specified",module,Magento_UrlRewriteGraphQl
-"Back","Back",module,Magento_User
+"Back","Til baka",module,Magento_User
 "Reset","Reset",module,Magento_User
-"Delete Role","Delete Role",module,Magento_User
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_User
-"Save Role","Save Role",module,Magento_User
-"Roles","Roles",module,Magento_User
-"Add New Role","Add New Role",module,Magento_User
-"Role Information","Role Information",module,Magento_User
-"Role Users","Role Users",module,Magento_User
-"User ID","User ID",module,Magento_User
-"User Name","User Name",module,Magento_User
-"First Name","First Name",module,Magento_User
-"Last Name","Last Name",module,Magento_User
-"Email","Email",module,Magento_User
-"Status","Status",module,Magento_User
-"Active","Active",module,Magento_User
-"Inactive","Inactive",module,Magento_User
+"Delete Role","Eyða hlutverki",module,Magento_User
+"Are you sure you want to do this?","Ert þú viss um að þú viljir gera þetta?",module,Magento_User
+"Save Role","Vista hlutverk",module,Magento_User
+"Roles","Hlutverk",module,Magento_User
+"Add New Role","Bæta við nýju hlutverki",module,Magento_User
+"Role Information","Hlutverksupplýsingar",module,Magento_User
+"Role Users","Hlutverksnotendur",module,Magento_User
+"User ID","Notandaauðkenni",module,Magento_User
+"User Name","Notandanafn",module,Magento_User
+"First Name","Fornafn",module,Magento_User
+"Last Name","Eftirnafn",module,Magento_User
+"Email","Rafpóstur",module,Magento_User
+"Status","Staða",module,Magento_User
+"Active","Virkur",module,Magento_User
+"Inactive","Óvirkur",module,Magento_User
 "Role Resources","Role Resources",module,Magento_User
-"Role Info","Role Info",module,Magento_User
-"Role Name","Role Name",module,Magento_User
+"Role Info","Hlutverksuppl.",module,Magento_User
+"Role Name","Hlutverksnafn",module,Magento_User
 "Current User Identity Verification","Current User Identity Verification",module,Magento_User
-"Your Password","Your Password",module,Magento_User
-"Add New User","Add New User",module,Magento_User
-"Users","Users",module,Magento_User
-"Save User","Save User",module,Magento_User
-"Delete User","Delete User",module,Magento_User
+"Your Password","Lykilorðið þitt",module,Magento_User
+"Add New User","Bæta við nýjum notanda",module,Magento_User
+"Users","Notendur",module,Magento_User
+"Save User","Vista notanda",module,Magento_User
+"Delete User","Eyða notanda",module,Magento_User
 "Are you sure you want to revoke the user's tokens?","Are you sure you want to revoke the user's tokens?",module,Magento_User
 "Force Sign-In","Force Sign-In",module,Magento_User
-"Edit User '%1'","Edit User '%1'",module,Magento_User
-"New User","New User",module,Magento_User
+"Edit User '%1'","Breyta notandanum ‚%1‘",module,Magento_User
+"New User","Nýr notandi",module,Magento_User
 "Account Information","Account Information",module,Magento_User
-"User Email","User Email",module,Magento_User
-"Password","Password",module,Magento_User
-"New Password","New Password",module,Magento_User
-"Password Confirmation","Password Confirmation",module,Magento_User
+"User Email","Notandarafpóstur",module,Magento_User
+"Password","Aðgangsorð",module,Magento_User
+"New Password","Nýtt aðgangsorð",module,Magento_User
+"Password Confirmation","Aðgangsorðsstaðfesting",module,Magento_User
 "Interface Locale","Interface Locale",module,Magento_User
 "This account is","This account is",module,Magento_User
 "Account Status","Account Status",module,Magento_User
 "User Roles Information","User Roles Information",module,Magento_User
 "Assigned","Assigned",module,Magento_User
-"Role","Role",module,Magento_User
-"User Information","User Information",module,Magento_User
-"User Info","User Info",module,Magento_User
-"User Role","User Role",module,Magento_User
+"Role","Hlutverk",module,Magento_User
+"User Information","Notandaupplýsingar",module,Magento_User
+"User Info","Notandauppl.",module,Magento_User
+"User Role","Notandahlutverk",module,Magento_User
 "Please correct the password reset token.","Please correct the password reset token.",module,Magento_User
 "Please specify the correct account and try again.","Please specify the correct account and try again.",module,Magento_User
 "Your password reset link has expired.","Your password reset link has expired.",module,Magento_User
 "We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_User
 "We'll email you a link to reset your password.","We'll email you a link to reset your password.",module,Magento_User
-"Please correct this email address:","Please correct this email address:",module,Magento_User
+"Please correct this email address:","Vinsamlega leiðréttu þetta rafpóstfang:",module,Magento_User
 "Please enter an email address.","Please enter an email address.",module,Magento_User
 "You updated your password.","You updated your password.",module,Magento_User
 "Locked Users","Locked Users",module,Magento_User
@@ -15327,18 +15327,18 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
 "Password Help","Passorð hjálp",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Enter your email address.  You will receive an email with a link to reset your password.",module,Magento_User
-"Email address","Email address",module,Magento_User
+"Email address","Rafpóstfang",module,Magento_User
 "Retrieve Password","Retrieve Password",module,Magento_User
 "Back to Sign in","Back to Sign in",module,Magento_User
 "Forgot your password?","Forgot your password?",module,Magento_User
 "Reset a Password","Reset a Password",module,Magento_User
 "Confirm New Password","Confirm New Password",module,Magento_User
-"Reset Password","Reset Password",module,Magento_User
+"Reset Password","Endurstilla aðgangsorð",module,Magento_User
 "Roles Resources","Roles Resources",module,Magento_User
 "Resource Access","Resource Access",module,Magento_User
 "Custom","Sérsniðið",module,Magento_User
 "All","Allt",module,Magento_User
-"Resources","Resources",module,Magento_User
+"Resources","Auðlindir",module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?",module,Magento_User
 "Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
@@ -15346,28 +15346,28 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
 "If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
-"Thank you,","Thank you,",module,Magento_User
-"New %changes for %user_name","New %changes for %user_name",module,Magento_User
-"Hello,","Hello,",module,Magento_User
+"Thank you,","Takk fyrir,",module,Magento_User
+"New %changes for %user_name","Nýjar %changes fyrir %user_name",module,Magento_User
+"Hello,","Halló,",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
 "or call us at %store_phone","or call us at %store_phone",module,Magento_User
-"Thanks,","Thanks,",module,Magento_User
-"All Users","All Users",module,Magento_User
-"User Roles","User Roles",module,Magento_User
+"Thanks,","Takk,",module,Magento_User
+"All Users","Allir notendur",module,Magento_User
+"User Roles","Notandahlutverk",module,Magento_User
 "User Notification Template","User Notification Template",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_User
 "Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_User
 "We will disable this feature if the value is empty.","We will disable this feature if the value is empty.",module,Magento_User
 "Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_User
 "Password Lifetime (days)","Password Lifetime (days)",module,Magento_User
-"Password Change","Password Change",module,Magento_User
-"Unlock","Unlock",module,Magento_User
-"ID","ID",module,Magento_User
-"Username","Username",module,Magento_User
+"Password Change","Aðgangsorðsbreyting",module,Magento_User
+"Unlock","Aflæsa",module,Magento_User
+"ID","Auðkenni",module,Magento_User
+"Username","Notandanafn",module,Magento_User
 "Last login","Siðasta innskráning",module,Magento_User
-"Failures","Failures",module,Magento_User
-"Unlocked","Unlocked",module,Magento_User
+"Failures","Mistök",module,Magento_User
+"Unlocked","Aflæst",module,Magento_User
 "The password for your account has been successfully changed.","The password for your account has been successfully changed.",module,Magento_User
 "If you did not request this change, please contact us.","If you did not request this change, please contact us.",module,Magento_User
 "Reset Password Template","Reset Password Template",module,Magento_User
@@ -16223,77 +16223,77 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Summary",theme,frontend\Magento\blank
-"Account Dashboard","Account Dashboard",theme,frontend\Magento\blank
-"Account Information","Account Information",theme,frontend\Magento\blank
-"Address Book","Address Book",theme,frontend\Magento\blank
-"Menu","Menu",theme,frontend\Magento\blank
-"Account","Account",theme,frontend\Magento\blank
-"Settings","Settings",theme,frontend\Magento\blank
-"Now Shopping by","Now Shopping by",theme,frontend\Magento\luma
-"Previous","Previous",theme,frontend\Magento\luma
-"Remove","Fjarlægja",theme,frontend\Magento\luma
-"Remove This Item","Remove This Item",theme,frontend\Magento\luma
-"Shop By","Shop By",theme,frontend\Magento\luma
-"Clear All","Clear All",theme,frontend\Magento\luma
-"Shopping Options","Shopping Options",theme,frontend\Magento\luma
-"Welcome to %store_name","Welcome to %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Welcome to %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend\Magento\luma
-"Email:","Email:",theme,frontend\Magento\luma
-"Password:","Password:",theme,frontend\Magento\luma
-"Password you set when creating account","Password you set when creating account",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend\Magento\luma
-"Quick Checkout","Quick Checkout",theme,frontend\Magento\luma
-"Proceed through checkout faster","Proceed through checkout faster",theme,frontend\Magento\luma
-"Order Status","Order Status",theme,frontend\Magento\luma
-"Check the status of orders","Check the status of orders",theme,frontend\Magento\luma
-"Manage Addresses","Manage Addresses",theme,frontend\Magento\luma
-"Store alternative addresses","Store alternative addresses",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend\Magento\luma
-"Order History","Order History",theme,frontend\Magento\luma
-"View past orders","View past orders",theme,frontend\Magento\luma
-"Footer","Footer",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend\Magento\luma
-"Billing Info","Billing Info",theme,frontend\Magento\luma
-"Shipping Info","Shipping Info",theme,frontend\Magento\luma
-"Payment Method","Payment Method",theme,frontend\Magento\luma
-"Shipping Method","Shipping Method",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
-"Account Dashboard","Account Dashboard",theme,frontend\Magento\luma
-"Address Book","Address Book",theme,frontend\Magento\luma
-"Account Information","Account Information",theme,frontend\Magento\luma
-"About Us","About Us",theme,frontend\Magento\luma
-"Customer Service","Customer Service",theme,frontend\Magento\luma
-"My Account","My Account",theme,frontend\Magento\luma
+"Summary","Samantekt",theme,frontend/Magento/blank
+"Account Dashboard","Account Dashboard",theme,frontend/Magento/blank
+"Account Information","Account Information",theme,frontend/Magento/blank
+"Address Book","Address Book",theme,frontend/Magento/blank
+"Menu","Menu",theme,frontend/Magento/blank
+"Account","Account",theme,frontend/Magento/blank
+"Settings","Stillingar",theme,frontend/Magento/blank
+"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
+"Previous","Fyrri",theme,frontend/Magento/luma
+"Remove","Fjarlægja",theme,frontend/Magento/luma
+"Remove This Item","Fjarlægja þetta atriði",theme,frontend/Magento/luma
+"Shop By","Shop By",theme,frontend/Magento/luma
+"Clear All","Hreinsa allt",theme,frontend/Magento/luma
+"Shopping Options","Verslunarvalmöguleikar",theme,frontend/Magento/luma
+"Welcome to %store_name","Velkomin(n) í %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Velkomin(n) í %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
+"Email:","Rafpóstur:",theme,frontend/Magento/luma
+"Password:","Aðgangsorð:",theme,frontend/Magento/luma
+"Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
+"Quick Checkout","Hröð afgreiðsla",theme,frontend/Magento/luma
+"Proceed through checkout faster","Fara gegnum afgreiðslu hraðar",theme,frontend/Magento/luma
+"Order Status","Pöntunarstaða",theme,frontend/Magento/luma
+"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
+"Manage Addresses","Stjórna staðföngum",theme,frontend/Magento/luma
+"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
+"Order History","Pöntunarsaga",theme,frontend/Magento/luma
+"View past orders","View past orders",theme,frontend/Magento/luma
+"Footer","Fótur",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Um okkur</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Viðskiptavinaþjónusta</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Opnunartími:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Billing Info",theme,frontend/Magento/luma
+"Shipping Info","Sendingaruppl.",theme,frontend/Magento/luma
+"Payment Method","Greiðsluaðferð",theme,frontend/Magento/luma
+"Shipping Method","Sendingaraðferð",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
+"Address Book","Address Book",theme,frontend/Magento/luma
+"Account Information","Account Information",theme,frontend/Magento/luma
+"About Us","Um okkur",theme,frontend/Magento/luma
+"Customer Service","Customer Service",theme,frontend/Magento/luma
+"My Account","My Account",theme,frontend/Magento/luma
 "Backup options","Backup options",lib,web
-"Warning","Warning",lib,web
-"Cancel","Cancel",lib,web
-"Ok","Ok",lib,web
+"Warning","Aðvörun",lib,web
+"Cancel","Hætta við",lib,web
+"Ok","Í lagi",lib,web
 "Insert Widget...","Insert Widget...",lib,web
 "No records found.","No records found.",lib,web
 "Recent items","Recent items",lib,web
@@ -16302,15 +16302,15 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please select one of each ratings above.","Please select one of each ratings above.",lib,web
 "Please specify Url.","Please specify Url.",lib,web
 "Method %s does not exist on jQuery.decorate","Method %s does not exist on jQuery.decorate",lib,web
-"Close","Close",lib,web
-"Next","Next",lib,web
-"Previous","Previous",lib,web
+"Close","Loka",lib,web
+"Next","Áfram",lib,web
+"Previous","Fyrri",lib,web
 "Please wait...","Please wait...",lib,web
 "Loading...","Loading...",lib,web
-"All ","All ",lib,web
-"more","more",lib,web
-"Save","Save",lib,web
-"Translate","Translate",lib,web
+"All ","Allt ",lib,web
+"more","meira",lib,web
+"Save","Vista",lib,web
+"Translate","Þýða",lib,web
 "Submit","Submit",lib,web
 "Please enter {0} words or less.","Please enter {0} words or less.",lib,web
 "Please enter at least {0} words.","Please enter at least {0} words.",lib,web
@@ -16332,10 +16332,10 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a valid credit card number.","Please enter a valid credit card number.",lib,web
 "Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",lib,web
 "Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",lib,web
-"Invalid format.","Invalid format.",lib,web
+"Invalid format.","Ógilt snið.",lib,web
 "HTML tags are not allowed.","HTML tags are not allowed.",lib,web
 "Please select an option.","Please select an option.",lib,web
-"Empty Value.","Empty Value.",lib,web
+"Empty Value.","Tómt gildi.",lib,web
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",lib,web
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",lib,web
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",lib,web
